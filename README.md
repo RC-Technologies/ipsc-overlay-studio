@@ -12,6 +12,6 @@ This repository only holds the release files; the source code is not public.
   licence and a link to the source are in each archive.
 
 Check a download: compare its SHA-256 with the `.sha256` file next to it (or the website), or with the
-GitHub CLI: `gh release verify-asset v<version> <file> -R <owner>/ipsc-overlay-studio`.
+GitHub CLI: `gh release verify-asset v<version> <file> -R RC-Technologies/ipsc-overlay-studio`.
 
 Questions and bug reports: tom.wuyts@rc-technologies.be
